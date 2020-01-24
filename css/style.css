@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+#grid-container {
+    display: grid;
+    border: solid black 1px;
+    width: 510px;
+    height: 510px;
+    margin:15px auto;
+}
